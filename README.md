@@ -1,2 +1,2 @@
 # CovidRates
-Using Linear Regression to predict Covid Rates
+Visualizing Covid-19 rates and comparing them with the rest of the world.
